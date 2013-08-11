@@ -7,7 +7,7 @@ http://montypython.50webs.com/scripts/Life_of_Brian/8.htm
 "Symbolic of his struggle against reality."
 
 ## What is loretta?
-Loretta is a http framework to build a powerful http services with minimum effort.
+Loretta is a http framework to build powerful http services with minimum effort.
 
 ## Features
 * Based on GEvent
